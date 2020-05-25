@@ -4,6 +4,7 @@
 
 
 require "deer/version"
+require "deer/cli"
 
 module Deer
   class Error < StandardError; end
