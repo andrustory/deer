@@ -3,3 +3,4 @@
 require "bundler/setup"
 require "deer"
 
+Deer::CLI.new.start
